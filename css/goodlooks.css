@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://www.solidbackgrounds.com/images/1920x1080/1920x1080-forest-green-traditional-solid-color-background.jpg);
+}
+
+.img-center{
+    width: 50%;
+    float: right;
+    display: block;
+}
+
+h1{
+    
+    color: beige;
+}
+
+.header{
+    position: absolute;
+    top: 0px;
+    display: block;
+    margin: auto;
+    color: beige;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.footer{
+    font-size: medium;
+    background-color: rgb(42, 165, 120);
+    bottom :0px;
+    margin: auto;
+    position: fixed;
+    z-index: 1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mainstuff{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 150px;
+    color: beige;
+}
+
+.linktoprof{
+    float: right;
+    font-size: medium;
+    color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
